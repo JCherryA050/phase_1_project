@@ -13,11 +13,31 @@ Concerns Entering the Market
     - Month of  May
     - Month of November
 - Conclusion
-# Business Understanding
+## Data Sources
 
+The analysis described below was conducted using the data obtained from the iMBD, The Numbers, and Box Office Mojo
 
+## Regarding Hiring Top Directors
 
-## Data Understanding (Results)
+## Regarding Hiring Top Actors
+
+## Regaurding Optimized Release Dates
+
+- Define the best timeline to roll out original content
+  - movies profit margin per movie by release month
+  - number and gross of movies per month grouped by genre
+
+### Best Months
+
+Using data from the Numbers we looked at the world grossing metric for the movies based on the month they were released. The following is how the data is grouped and the relavent analysis.
+
+'''python
+world_gross_per_movie_by_month = tn_df.groupby('month').sum()['worldwide_gross']/\
+    tn_df.groupby('month').count()['movie']
+domestic_gross_per_movie_by_month = tn_df.groupby('month').sum()['domestic_gross']/\
+    tn_df.groupby('month').count()['movie']
+'''
+The data is grouped by month of the year and total revenue for each month is divided by the total number of movies releasesd for that month to give the average gross income per movie for that month. The results are shown below.
 
 
 
