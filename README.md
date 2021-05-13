@@ -40,6 +40,6 @@ domestic_gross_per_movie_by_month = tn_df.groupby('month').sum()['domestic_gross
 
 The data is grouped by month of the year and total revenue for each month is divided by the total number of movies releasesd for that month to give the average gross income per movie for that month. The results are shown below.
 
-
+![Gross Profit per Movie by Maonth](profit margin per month highlighted.jpg)
 
 ## Conclusory Remarks
