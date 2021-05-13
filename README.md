@@ -27,9 +27,9 @@ The analysis described below was conducted using the data obtained from the iMBD
   - movies profit margin per movie by release month
   - number and gross of movies per month grouped by genre
 
-### Best Months
+### Optimal Release Months
 
-Using data from the Numbers we looked at the world grossing metric for the movies based on the month they were released. The following is how the data is grouped and the relavent analysis.
+Using data from the Numbers, we looked at the world grossing metric for the movies based on the month they were released. The following is how the data is grouped and the relavent analysis.
 
 ```python
 world_gross_per_movie_by_month = tn_df.groupby('month').sum()['worldwide_gross']/\
@@ -41,5 +41,11 @@ domestic_gross_per_movie_by_month = tn_df.groupby('month').sum()['domestic_gross
 The data is grouped by month of the year and total revenue for each month is divided by the total number of movies releasesd for that month to give the average gross income per movie for that month. The results are shown below.
 
 ![Gross Profit per Movie by Maonth](https://github.com/JCherryA050/phase_1_project/blob/main/images/gross_income_by_month.png)
+
+### Popular Genres
+
+Using data from the iMBD, a count was taken of all of the available genres and comparisons were made.
+
+- First, the movie genre in the data table was grouped for each movie. The 
 
 ## Conclusory Remarks
