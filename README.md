@@ -51,7 +51,7 @@ Using the data from iMDB, we averaged the movie ratings for each director and th
 
 Using the data from iMDB, we averaged the movie ratings for each actor/actress and the movies they were in for each year and created a bar chart representing the trend of the ratings the movies they were in received. Our positively recommended actor and actress is Chris Evans and Jennifer Garner.
 
-![Actor Recommendation](add link after pushing ev dark images)
+![Actor Recommendation](https://github.com/JCherryA050/phase_1_project/blob/main/images/Chris_evans_ratings_over_years_dark.png)
 
 ![Actress Recommendation](add link after pushing ev dark images)
 
