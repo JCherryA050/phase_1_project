@@ -1,6 +1,6 @@
-# Film Production Insights
-
 ![](https://github.com/JCherryA050/phase_1_project/blob/main/images/title_screen.jpeg)
+
+# Film Production Insights
 
 Concerns Entering the Market
 - Data Sources
