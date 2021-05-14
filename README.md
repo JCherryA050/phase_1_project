@@ -3,6 +3,7 @@
 # Microsoft Studios: Rise to the Surface
 
 ## Table of Contents
+- Business Problem
 - Data Sources
 - Directors
   - Top director’s avg budget vs avg gross
@@ -16,6 +17,15 @@
   - Top Voted
 - Conclusion
 - Authors
+
+## Business Problem
+
+Starting a movie studio in today's market can be extremely challenging with huge key name competitors sweeping the market. We want our studio to explode onto the scene with hit after hit by trying to identify successful trends and patterns behind what makes a movie successful. We asked ourselves the following questions:
+- Who we can hire to the team?
+- The type of content to create?
+- What is our release date structure?
+
+Identifying these successful trends and behaviors and then emulating them will enable our new studio to keep costs low, maximize profit, and become a mighty competitor and successful in the movie industry.
 
 ## Data Sources
 
@@ -93,16 +103,7 @@ These plots show the most made and most voted movies released after the year 196
 
 ## In Conclusion
 
-- Need to leave an impression in the market with great directors:
-  - Adrian Molina, Lee Unkrich, Christopher Nolan, Pete Docter
-- Actors:
-  - Chris Evans, Jennifer Garner
-- Perfectly timed releases:
-  - Summer Months or Holidays: Big Productions
-  - Dump Months: Quick Turnaround
-- Top Genres
-  - Common: Comedy/Dramas
-  - Popular: Adventure, Sci-Fi, Action, Fantasy
+Our results of our analysis indicate that we recommend Microsoft hire top directors such as Christopher Nolan, Adrian Molina, Lee Unkrich, Pete Docter and top actor Chris Evans and top actress Jennifer Garner for our action, adventure, or sci-fi film released in May or November. Although our data indicates we should go with these people, there could be external factors that impact our results or future alternate results. For example, these recommended artists could have been cancelled on social media and current data on the movie ratings would not be sufficient to measure this. We could get data from their social media to determine their sentiment with people. We could also investigate further specific foreign markets or when to release specific genres.
 
 ## Authors
 
