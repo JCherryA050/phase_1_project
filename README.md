@@ -11,12 +11,12 @@ Concerns Entering the Market
   - Female actor recommendation
 - Release Dates
   - Film Gross by Month
-  - Film Gross by Day in Month
-    - Month of  May
-    - Month of November
 - Most Common Genres
-- Foreign or Domestic Markets?
+  - Commonly Produced
+  - Top Voted
 - Conclusion
+- Authors
+
 ## Data Sources
 
 The analysis described below was conducted using the data obtained from the iMBD, The Numbers, and Box Office Mojo
