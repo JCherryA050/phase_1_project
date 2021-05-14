@@ -73,6 +73,7 @@ The data is grouped by month of the year and total revenue for each month is div
 
 ![Gross Profit per Movie by Month](https://github.com/JCherryA050/phase_1_project/blob/main/images/gross_income_by_month_DARK.png)
 
+This plot of the net prifits of films released after 1960 shows the total net profits of movies divided by the number of movies in the month that they were released. This gives an Idea of the average net profit per movie given a specific month. Judging from this comparrison, it can be concluded that the months that generally yeild the most profit for a new release are the Summer months of May, June, July and the holliday months of November and December.
 
 ## Regarding Common Popular Genres
 
@@ -88,6 +89,7 @@ The average number of votes per genre was calculated and can be seen in the foll
 
 ![Bar Plot of the Most Voted Over Genres on iMBD](https://github.com/JCherryA050/phase_1_project/blob/main/images/number_of_genres_DARK.png)
 
+These plots show the most made and most voted movies released after the year 1960. From these figures it can be concluded that the popular genres (Adventure, Sci-Fi, Action, Fantasy) and most made genres (Comedy, Drama) do not necessarily align. There could be a saturation in the most made movies that gives way to not one movie being singled out. It is recommended however to focus mostly on the most voted over genres as they will be in the public eye.
 
 ## In Conclusion
 
