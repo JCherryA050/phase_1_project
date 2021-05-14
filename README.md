@@ -14,6 +14,8 @@ Concerns Entering the Market
   - Film Gross by Day in Month
     - Month of  May
     - Month of November
+- Most Common Genres
+- Foreign or Domestic Markets?
 - Conclusion
 ## Data Sources
 
@@ -44,12 +46,22 @@ The data is grouped by month of the year and total revenue for each month is div
 
 ![Gross Profit per Movie by Maonth](https://github.com/JCherryA050/phase_1_project/blob/main/images/gross_income_by_month.png)
 
-### Popular Genres
+## Regarding Common Popular Genres
 
 Using data from the iMBD, a count was taken of all of the available genres and comparisons were made.
 
 - First, the movie genre in the data table was grouped for each movie. The
 
 ![Bar Plot Depicting Popular Genres](https://github.com/JCherryA050/phase_1_project/blob/main/images/number%20of%20movies%20by%20genre%20DARK.png)
+
+## Regarding Foreign or Domestic Markets
+
+Using data from The Numbers, the trend of gross income from the foreign and domestic markets is shown.
+
+- Data was cleaned and the foreign gross was taken from the difference between the world gross and the domestic gross. The total gross income was then grouped and summed over each year.
+- The line graph below shows the general trend of the foreign and domestic market from the years 1960 - 2017
+
+
+
 
 ## Conclusory Remarks
