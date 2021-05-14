@@ -38,7 +38,7 @@ The analysis described below was conducted using the data obtained from:
 
 Using the data from iMDB, we averaged the movie ratings for each director and the movies they directed. We then sorted by the highest rating directors and removed any negative profiting directors and directors with an average budget of around $200,000.00. Below is the recommended top directors with profit.
 
-![Director's Avg Rating vs Gross](addd link after pushing ev dark images)
+![Director's Avg Rating vs Gross](https://github.com/JCherryA050/phase_1_project/blob/main/images/Director_avg_budget_vs_avg_gross_figure_dark.png)
 
 ## Regarding Hiring Top Actors
 
