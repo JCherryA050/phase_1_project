@@ -28,8 +28,7 @@ The analysis described below was conducted using the data obtained from the iMBD
 ## Regaurding Optimized Release Dates
 
 - Define the best timeline to roll out original content
-  - movies profit margin per movie by release month
-  - number and gross of movies per month grouped by genre
+  - Look at gross profit per movie by month
 
 ### Optimal Release Months
 
@@ -52,7 +51,7 @@ Using data from the iMBD, a count was taken of all of the available genres and c
 
 - First, the movie genre in the data table was grouped for each movie. The
 
-![Bar Plot Depicting Popular Genres](https://github.com/JCherryA050/phase_1_project/blob/main/images/number%20of%20movies%20by%20genre%20DARK.png)
+![Bar Plot Depicting Popular Genres](https://github.com/JCherryA050/phase_1_project/blob/main/images/number_of_movies_by_genre_DARK.png)
 
 ## Regarding Foreign or Domestic Markets
 
@@ -61,7 +60,7 @@ Using data from The Numbers, the trend of gross income from the foreign and dome
 - Data was cleaned and the foreign gross was taken from the difference between the world gross and the domestic gross. The total gross income was then grouped and summed over each year.
 - The line graph below shows the general trend of the foreign and domestic market from the years 1960 - 2017
 
-![](https://github.com/JCherryA050/phase_1_project/blob/main/images/foreing_domestic_market_trend_DARK.png)
+![Trends in the Foreing and Domestic Market](https://github.com/JCherryA050/phase_1_project/blob/main/images/foreing_domestic_market_trend.png)
 
 
 ## Conclusory Remarks
