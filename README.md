@@ -1,6 +1,6 @@
 # Film Production Insights
 
-
+![](https://github.com/JCherryA050/phase_1_project/blob/main/images/title_screen.jpeg)
 
 Concerns Entering the Market
 - Data Sources
@@ -50,6 +50,6 @@ Using data from the iMBD, a count was taken of all of the available genres and c
 
 - First, the movie genre in the data table was grouped for each movie. The
 
-![Gross Profit per Movie by Maonth](https://github.com/JCherryA050/phase_1_project/blob/main/images/number%20of%20movies%20by%20genre%20DARK.png)
+![Bar Plot Depicting Popular Genres](https://github.com/JCherryA050/phase_1_project/blob/main/images/number%20of%20movies%20by%20genre%20DARK.png)
 
 ## Conclusory Remarks
