@@ -84,7 +84,7 @@ Using data from The Numbers, the trend of gross income from the foreign and dome
 - Data was cleaned and the foreign gross was taken from the difference between the world gross and the domestic gross. The total gross income was then grouped and summed over each year.
 - The line graph below shows the general trend of the foreign and domestic market from the years 1960 - 2017
 
-![Trends in the Foreing and Domestic Market](https://github.com/JCherryA050/phase_1_project/blob/main/images/foreing_domestic_market_trend.png)
+![Trends in the Foreing and Domestic Market](https://github.com/JCherryA050/phase_1_project/blob/main/images/foreing_domestic_market_trend_DARK.png)
 
 
 ## Conclusory Remarks
