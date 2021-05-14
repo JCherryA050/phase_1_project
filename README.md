@@ -110,3 +110,6 @@ These plots show the most made and most voted movies released after the year 196
 Aaron Cherry
 - email: cherrya050@gmail.com
 - LinkedIn: <a href="https://www.linkedin.com/in/aaron-cherry-8aa728124/" target="_top">https://www.linkedin.com/in/aaron-cherry-8aa728124/</a>
+
+Erin Vu
+- email: erin.vu94@gmail.com
