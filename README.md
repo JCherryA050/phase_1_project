@@ -28,8 +28,7 @@ The analysis described below was conducted using the data obtained from the iMBD
 ## Regaurding Optimized Release Dates
 
 - Define the best timeline to roll out original content
-  - movies profit margin per movie by release month
-  - number and gross of movies per month grouped by genre
+  - Look at gross profit per movie by month
 
 ### Optimal Release Months
 
