@@ -1,4 +1,4 @@
-![](https://github.com/JCherryA050/phase_1_project/blob/main/images/title_screen.jpeg)
+![](https://github.com/JCherryA050/phase_1_project/blob/main/images/wp5556216.jpg)
 
 # Film Production Insights
 
