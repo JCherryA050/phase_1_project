@@ -53,7 +53,7 @@ Using the data from iMDB, we averaged the movie ratings for each actor/actress a
 
 ![Actor Recommendation](https://github.com/JCherryA050/phase_1_project/blob/main/images/Chris_evans_ratings_over_years_dark.png)
 
-![Actress Recommendation](add link after pushing ev dark images)
+![Actress Recommendation](https://github.com/JCherryA050/phase_1_project/blob/main/images/Jennifer_garner_ratings_over_years_dark.png)
 
 ## Regaurding Optimized Release Dates
 
