@@ -19,8 +19,14 @@ Concerns Entering the Market
 
 ## Data Sources
 
-The analysis described below was conducted using the data obtained from the iMBD, The Numbers, and Box Office Mojo
-
+The analysis described below was conducted using the data obtained from:
+- iMBD
+  - 331,703 titles
+  - 73,856 ratings
+  - 1,028.186 employee records
+- The Numbers
+  - 5,782 records
+ 
 ## Regarding Hiring Top Directors
 
  - Outstanding directors are an essential part of a successful movie.
