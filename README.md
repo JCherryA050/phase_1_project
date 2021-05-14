@@ -3,7 +3,7 @@
 # Microsoft Studios: Rise to the Surface
 
 ## Table of Contents
-- Business Problem
+1) Business Problem
 - Data Sources
 - Directors
   - Top director’s avg budget vs avg gross
