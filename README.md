@@ -1,6 +1,6 @@
-![](https://github.com/JCherryA050/phase_1_project/blob/main/images/title_screen.jpeg)
+![](https://github.com/JCherryA050/phase_1_project/blob/main/images/wp5556216.jpg)
 
-# Film Production Insights
+# Microsoft Studios: Rise to the Surface
 
 Concerns Entering the Market
 - Data Sources
@@ -11,12 +11,12 @@ Concerns Entering the Market
   - Female actor recommendation
 - Release Dates
   - Film Gross by Month
-  - Film Gross by Day in Month
-    - Month of  May
-    - Month of November
 - Most Common Genres
-- Foreign or Domestic Markets?
+  - Commonly Produced
+  - Top Voted
 - Conclusion
+- Authors
+
 ## Data Sources
 
 The analysis described below was conducted using the data obtained from the iMBD, The Numbers, and Box Office Mojo
@@ -83,6 +83,22 @@ The average number of votes per genre was calculated and can be seen in the foll
 ![Bar Plot of the Most Voted Over Genres on iMBD](https://github.com/JCherryA050/phase_1_project/blob/main/images/number_of_genres_DARK.png)
 
 
-## Conclusory Remarks
+## In Conclusion
+
+- Need to leave an impression in the market with great directors:
+  - Adrian Molina, Lee Unkrich, Christopher Nolan, Pete Docter
+- Actors:
+  - Chris Evans, Jennifer Garner
+- Perfectly timed releases:
+  - Summer Months or Holidays: Big Productions
+  - Dump Months: Quick Turnaround
+- Top Genres
+  - Common: Comedy/Dramas
+  - Popular: Adventure, Sci-Fi, Action, Fantasy
+
+## Authors
 
 
+Aaron Cherry
+- email: cherrya050@gmail.com
+- LinkedIn: <a href="https://www.linkedin.com/in/aaron-cherry-8aa728124/" target="_top">https://www.linkedin.com/in/aaron-cherry-8aa728124/</a>
