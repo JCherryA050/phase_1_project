@@ -23,7 +23,31 @@ The analysis described below was conducted using the data obtained from the iMBD
 
 ## Regarding Hiring Top Directors
 
+ - Outstanding directors are an essential part of a successful movie.
+ - Directors make their vision of the product come alive.
+ - Create value - high ratings, awards, gross, impact on viewer.
+ - Use the data to determine the highest rating Directors with an overall impressive budget to worldwide grossings.
+ 
+### Top Directors
+
+Using the data from iMDB, we averaged the movie ratings for each director and the movies they directed. We then sorted by the highest rating directors and removed any negative profiting directors and directors with an average budget of around $200,000.00. Below is the recommended top directors with profit.
+
+![Director's Avg Rating vs Gross](addd link after pushing ev dark images)
+
 ## Regarding Hiring Top Actors
+
+- Actors and actresses are the face of movies.
+- Consistently high performing actors and actresses will return positively received movies.
+- How the consumers view the actor/actress helps in creating studio recognition.
+- Determine the top rated actors who are releasing movies and are trending upwards in ratings received.
+
+### Top Actor/Actress
+
+Using the data from iMDB, we averaged the movie ratings for each actor/actress and the movies they were in for each year and created a bar chart representing the trend of the ratings the movies they were in received. Our positively recommended actor and actress is Chris Evans and Jennifer Garner.
+
+![Actor Recommendation](add link after pushing ev dark images)
+
+![Actress Recommendation](add link after pushing ev dark images)
 
 ## Regaurding Optimized Release Dates
 
@@ -43,7 +67,7 @@ domestic_gross_per_movie_by_month = tn_df.groupby('month').sum()['domestic_gross
 
 The data is grouped by month of the year and total revenue for each month is divided by the total number of movies releasesd for that month to give the average gross income per movie for that month. The results are shown below.
 
-![Gross Profit per Movie by Maonth](https://github.com/JCherryA050/phase_1_project/blob/main/images/gross_income_by_month.png)
+![Gross Profit per Movie by Month](https://github.com/JCherryA050/phase_1_project/blob/main/images/gross_income_by_month.png)
 
 ## Regarding Common Popular Genres
 
