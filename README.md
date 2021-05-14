@@ -2,7 +2,7 @@
 
 # Microsoft Studios: Rise to the Surface
 
-## Concerns Entering the Market
+## Table of Contents
 - Data Sources
 - Directors
   - Top director’s avg budget vs avg gross
