@@ -77,6 +77,10 @@ Using data from the iMBD, a count was taken of all of the available genres and c
 
 ![Bar Plot Depicting Popular Genres](https://github.com/JCherryA050/phase_1_project/blob/main/images/number_of_movies_by_genre_DARK.png)
 
+- The average number of votes per genre is shown in the following figure
+
+![Bar Plot of the Most Voted Over Genres on iMBD](https://github.com/JCherryA050/phase_1_project/blob/main/images/number_of_genres_DARK.png)
+
 ## Regarding Foreign or Domestic Markets
 
 Using data from The Numbers, the trend of gross income from the foreign and domestic markets is shown.
@@ -84,7 +88,7 @@ Using data from The Numbers, the trend of gross income from the foreign and dome
 - Data was cleaned and the foreign gross was taken from the difference between the world gross and the domestic gross. The total gross income was then grouped and summed over each year.
 - The line graph below shows the general trend of the foreign and domestic market from the years 1960 - 2017
 
-![Trends in the Foreing and Domestic Market](https://github.com/JCherryA050/phase_1_project/blob/main/images/foreing_domestic_market_trend_DARK.png)
+![Trends in the Foreign and Domestic Market](https://github.com/JCherryA050/phase_1_project/blob/main/images/foreing_domestic_market_trend_DARK.png)
 
 
 ## Conclusory Remarks
