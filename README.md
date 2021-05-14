@@ -1,6 +1,6 @@
 ![](https://github.com/JCherryA050/phase_1_project/blob/main/images/wp5556216.jpg)
 
-# Film Production Insights
+# Microsoft Studios: Rise to the Surface
 
 Concerns Entering the Market
 - Data Sources
@@ -86,3 +86,9 @@ The average number of votes per genre was calculated and can be seen in the foll
 ## Conclusory Remarks
 
 
+## Authors
+
+
+Aaron Cherry
+email: acherrya050@gmail.com
+LinkedIn: <a href="https://www.linkedin.com/in/aaron-cherry-8aa728124/" target="_top">https://www.linkedin.com/in/aaron-cherry-8aa728124/</a>
