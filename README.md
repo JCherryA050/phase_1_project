@@ -8,12 +8,12 @@
 3. Regarding Directors
     - Top director’s avg budget vs avg gross
 4. Regarding Actors
-  a. Male actor recommendation
-  b. Female actor recommendation
+    - Male actor recommendation
+    - Female actor recommendation
 5. Regarding Release Dates
 6. Regarding Genres
-  a. Most Common Genres
-  b. Most Voted Genres
+    - Most Common Genres
+    - Most Voted Genres
 7. Conclusion
 8. Authors
 
@@ -43,7 +43,7 @@ The analysis described below was conducted using the data obtained from:
  - Create value - high ratings, awards, gross, impact on viewer.
  - Use the data to determine the highest rating Directors with an overall impressive budget to worldwide grossings.
  
-###3a) Top Directors
+### Top Directors
 
 Using the data from iMDB, we averaged the movie ratings for each director and the movies they directed. We then sorted by the highest rating directors and removed any negative profiting directors and directors with an average budget of around $200,000.00. Below is the recommended top directors with profit.
 
@@ -56,7 +56,7 @@ Using the data from iMDB, we averaged the movie ratings for each director and th
 - How the consumers view the actor/actress helps in creating studio recognition.
 - Determine the top rated actors who are releasing movies and are trending upwards in ratings received.
 
-###4a) Top Actor/Actress
+### Top Actor/Actress
 
 Using the data from iMDB, we averaged the movie ratings for each actor/actress and the movies they were in for each year and created a bar chart representing the trend of the ratings the movies they were in received. Our positively recommended actor and actress is Chris Evans and Jennifer Garner.
 
@@ -90,12 +90,12 @@ This plot of the net prifits of films released after 1960 shows the total net pr
   - Look at genres that are saturated
   - Look at genres with most votes
 
-### 6a) Most Common Genres
+### Most Common Genres
 The data from the iMDB website was grouped by the genre and, after splicing genres, a function was applied to count the number of movies in each genre.
 
 ![Bar Plot Depicting Popular Genres](https://github.com/JCherryA050/phase_1_project/blob/main/images/number_of_movies_by_genre_DARK.png)
 
-### 6b) Most Voted Genres
+### Most Voted Genres
 The average number of votes were gathered and sorted by genre. The average of the number of votes was taken for each genre and plotted in the table below:
 
 ![Bar Plot of the Most Voted Over Genres on iMBD](https://github.com/JCherryA050/phase_1_project/blob/main/images/number_of_genres_DARK.png)
