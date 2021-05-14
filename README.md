@@ -17,7 +17,7 @@
 7. Conclusion
 8. Authors
 
-##1) Business Problem
+## 1) Business Problem
 
 Starting a movie studio in today's market can be extremely challenging with huge key name competitors sweeping the market. We want our studio to explode onto the scene with hit after hit by trying to identify successful trends and patterns behind what makes a movie successful. We asked ourselves the following questions:
 - Who we can hire to the team?
@@ -26,7 +26,7 @@ Starting a movie studio in today's market can be extremely challenging with huge
 
 Identifying these successful trends and behaviors and then emulating them will enable our new studio to keep costs low, maximize profit, and become a mighty competitor and successful in the movie industry.
 
-##2) Data Sources
+## 2) Data Sources
 
 The analysis described below was conducted using the data obtained from:
 - iMBD
@@ -36,7 +36,7 @@ The analysis described below was conducted using the data obtained from:
 - The Numbers
   - 5,782 records
  
-##3) Regarding Directors
+## 3) Regarding Directors
 
  - Outstanding directors are an essential part of a successful movie.
  - Directors make their vision of the product come alive.
@@ -49,7 +49,7 @@ Using the data from iMDB, we averaged the movie ratings for each director and th
 
 ![Director's Avg Rating vs Gross](https://github.com/JCherryA050/phase_1_project/blob/main/images/Director_avg_budget_vs_avg_gross_figure_dark.png)
 
-##4) Regarding Actors
+## 4) Regarding Actors
 
 - Actors and actresses are the face of movies.
 - Consistently high performing actors and actresses will return positively received movies.
@@ -64,7 +64,7 @@ Using the data from iMDB, we averaged the movie ratings for each actor/actress a
 
 ![Actress Recommendation](https://github.com/JCherryA050/phase_1_project/blob/main/images/Jennifer_garner_ratings_over_years_dark.png)
 
-##5) Regaurding Release Dates
+## 5) Regaurding Release Dates
 
 - Define the best timeline to roll out original content
   - Look at gross profit per movie by month
@@ -84,7 +84,7 @@ The data is grouped by month of the year and total revenue for each month is div
 
 This plot of the net prifits of films released after 1960 shows the total net profits of movies divided by the number of movies in the month that they were released. This gives an Idea of the average net profit per movie given a specific month. Judging from this comparrison, it can be concluded that the months that generally yeild the most profit for a new release are the Summer months of May, June, July and the holliday months of November and December.
 
-##6) Regarding Genres
+## 6) Regarding Genres
 
 - Define the best genres of movies to produce
   - Look at genres that are saturated
@@ -102,11 +102,11 @@ The average number of votes were gathered and sorted by genre. The average of th
 
 These plots show the most made and most voted movies released after the year 1960. From these figures it can be concluded that the popular genres (Adventure, Sci-Fi, Action, Fantasy) and most made genres (Comedy, Drama) do not necessarily align. There could be a saturation in the most made movies that gives way to not one movie being singled out. It is recommended however to focus mostly on the most voted over genres as they will be in the public eye.
 
-##7) In Conclusion
+## 7) In Conclusion
 
 Our results of our analysis indicate that we recommend Microsoft hire top directors such as Christopher Nolan, Adrian Molina, Lee Unkrich, Pete Docter and top actor Chris Evans and top actress Jennifer Garner for our action, adventure, or sci-fi film released in May or November. Although our data indicates we should go with these people, there could be external factors that impact our results or future alternate results. For example, these recommended artists could have been cancelled on social media and current data on the movie ratings would not be sufficient to measure this. We could get data from their social media to determine their sentiment with people. We could also investigate further specific foreign markets or when to release specific genres.
 
-##8) Authors
+## 8) Authors
 
 
 Aaron Cherry
