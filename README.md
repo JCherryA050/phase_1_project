@@ -6,7 +6,7 @@
 1. Business Problem
 2. Data Sources
 3. Regarding Directors
-  - Top director’s avg budget vs avg gross
+    - Top director’s avg budget vs avg gross
 4. Regarding Actors
   a. Male actor recommendation
   b. Female actor recommendation
