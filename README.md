@@ -60,7 +60,7 @@ Using the data from iMDB, we averaged the movie ratings for each actor/actress a
 - Define the best timeline to roll out original content
   - Look at gross profit per movie by month
 
-Using data from the Numbers, we looked at the world grossing metric for the movies based on the month they were released. The following is how the data is grouped and the relavent analysis.
+Using data from The Numbers, we looked at the world grossing metric for the movies based on the month they were released. The following is how the data is grouped and the relavent analysis.
 
 ```python
 world_gross_per_movie_by_month = tn_df.groupby('month').sum()['worldwide_gross']/\
@@ -81,11 +81,11 @@ This plot of the net prifits of films released after 1960 shows the total net pr
   - Look at genres that are saturated
   - Look at genres with most votes
 
-Using data from the iMBD, a count was taken of all of the available genres and comparisons were made. 
+The data from the iMDB website was grouped by the genre and, after splicing genres, a function was applied to count the number of movies in each genre.
 
 ![Bar Plot Depicting Popular Genres](https://github.com/JCherryA050/phase_1_project/blob/main/images/number_of_movies_by_genre_DARK.png)
 
-The average number of votes per genre was calculated and can be seen in the following figure:
+The average number of votes were gathered and sorted by genre. The average of the number of votes was taken for each genre and plotted in the table below:
 
 ![Bar Plot of the Most Voted Over Genres on iMBD](https://github.com/JCherryA050/phase_1_project/blob/main/images/number_of_genres_DARK.png)
 
