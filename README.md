@@ -90,5 +90,5 @@ The average number of votes per genre was calculated and can be seen in the foll
 
 
 Aaron Cherry
-email: acherrya050@gmail.com
-LinkedIn: <a href="https://www.linkedin.com/in/aaron-cherry-8aa728124/" target="_top">https://www.linkedin.com/in/aaron-cherry-8aa728124/</a>
+- email: acherrya050@gmail.com
+- LinkedIn: <a href="https://www.linkedin.com/in/aaron-cherry-8aa728124/" target="_top">https://www.linkedin.com/in/aaron-cherry-8aa728124/</a>
