@@ -3,19 +3,19 @@
 # Microsoft Studios: Rise to the Surface
 
 ## Table of Contents
-1) Business Problem
-2) Data Sources
-3) Regarding Directors
-  3a) Top director’s avg budget vs avg gross
-4) Regarding Actors
-  4a) Male actor recommendation
-  4b) Female actor recommendation
-5) Regarding Release Dates
-6) Regarding Genres
-  6a) Most Common Genres
-  6b) Most Voted Genres
-7) Conclusion
-8) Authors
+1. Business Problem
+2. Data Sources
+3. Regarding Directors
+  3a. Top director’s avg budget vs avg gross
+4. Regarding Actors
+  4a. Male actor recommendation
+  4b. Female actor recommendation
+5. Regarding Release Dates
+6. Regarding Genres
+  6a. Most Common Genres
+  6b. Most Voted Genres
+7. Conclusion
+8. Authors
 
 ##1) Business Problem
 
