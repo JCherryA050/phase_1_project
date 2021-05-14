@@ -83,12 +83,22 @@ The average number of votes per genre was calculated and can be seen in the foll
 ![Bar Plot of the Most Voted Over Genres on iMBD](https://github.com/JCherryA050/phase_1_project/blob/main/images/number_of_genres_DARK.png)
 
 
-## Conclusory Remarks
+## In Conclusion
 
+- Need to leave an impression in the market with great directors:
+  - Adrian Molina, Lee Unkrich, Christopher Nolan, Pete Docter
+- Actors:
+  - Chris Evans, Jennifer Garner
+- Perfectly timed releases:
+  - Summer Months or Holidays: Big Productions
+  - Dump Months: Quick Turnaround
+- Top Genres
+  - Common: Comedy/Dramas
+  - Popular: Adventure, Sci-Fi, Action, Fantasy
 
 ## Authors
 
 
 Aaron Cherry
-- email: acherrya050@gmail.com
+- email: cherrya050@gmail.com
 - LinkedIn: <a href="https://www.linkedin.com/in/aaron-cherry-8aa728124/" target="_top">https://www.linkedin.com/in/aaron-cherry-8aa728124/</a>
