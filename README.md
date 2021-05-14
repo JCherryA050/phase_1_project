@@ -46,6 +46,8 @@ The data is grouped by month of the year and total revenue for each month is div
 
 Using data from the iMBD, a count was taken of all of the available genres and comparisons were made.
 
-- First, the movie genre in the data table was grouped for each movie. The 
+- First, the movie genre in the data table was grouped for each movie. The
+
+![Gross Profit per Movie by Maonth](https://github.com/JCherryA050/phase_1_project/blob/main/images/number%20of%20movies%20by%20genre%20DARK.png)
 
 ## Conclusory Remarks
