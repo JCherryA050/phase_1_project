@@ -47,7 +47,7 @@ The analysis described below was conducted using the data obtained from:
 
 Using the data from iMDB, we averaged the movie ratings for each director and the movies they directed. We then sorted by the highest rating directors and removed any negative profiting directors and directors with an average budget of around $200,000.00. Below is the recommended top directors with profit.
 
-![Director's Avg Rating vs Gross](https://github.com/JCherryA050/phase_1_project/blob/main/images/Director_avg_budget_vs_avg_gross_figure_dark.png)
+![Director's Avg Rating vs Gross](https://github.com/JCherryA050/phase_1_project/blob/main/images/Director_avg_budget_vs_avg_gross_figure.png)
 
 ## 4) Regarding Actors
 
@@ -60,9 +60,9 @@ Using the data from iMDB, we averaged the movie ratings for each director and th
 
 Using the data from iMDB, we averaged the movie ratings for each actor/actress and the movies they were in for each year and created a bar chart representing the trend of the ratings the movies they were in received. Our positively recommended actor and actress is Chris Evans and Jennifer Garner.
 
-![Actor Recommendation](https://github.com/JCherryA050/phase_1_project/blob/main/images/Chris_evans_ratings_over_years_dark.png)
+![Actor Recommendation](https://github.com/JCherryA050/phase_1_project/blob/main/images/Chris_evans_ratings_over_years.png)
 
-![Actress Recommendation](https://github.com/JCherryA050/phase_1_project/blob/main/images/Jennifer_garner_ratings_over_years_dark.png)
+![Actress Recommendation](https://github.com/JCherryA050/phase_1_project/blob/main/images/Jennifer_garner_ratings_over_years.png)
 
 ## 5) Regaurding Release Dates
 
@@ -80,7 +80,7 @@ domestic_gross_per_movie_by_month = tn_df.groupby('month').sum()['domestic_gross
 
 The data is grouped by month of the year and total revenue for each month is divided by the total number of movies releasesd for that month to give the average gross income per movie for that month. Results are shown below:
 
-![Gross Profit per Movie by Month](https://github.com/JCherryA050/phase_1_project/blob/main/images/gross_income_by_month_DARK.png)
+![Gross Profit per Movie by Month](https://github.com/JCherryA050/phase_1_project/blob/main/images/gross_income_by_month.png)
 
 This plot of the net prifits of films released after 1960 shows the total net profits of movies divided by the number of movies in the month that they were released. This gives an Idea of the average net profit per movie given a specific month. Judging from this comparrison, it can be concluded that the months that generally yeild the most profit for a new release are the Summer months of May, June, July and the holliday months of November and December.
 
@@ -93,12 +93,12 @@ This plot of the net prifits of films released after 1960 shows the total net pr
 ### Most Common Genres
 The data from the iMDB website was grouped by the genre and, after splicing genres, a function was applied to count the number of movies in each genre.
 
-![Bar Plot Depicting Popular Genres](https://github.com/JCherryA050/phase_1_project/blob/main/images/number_of_movies_by_genre_DARK.png)
+![Bar Plot Depicting Popular Genres](https://github.com/JCherryA050/phase_1_project/blob/main/images/number_of_movies_by_genre.png)
 
 ### Most Voted Genres
 The average number of votes were gathered and sorted by genre. The average of the number of votes was taken for each genre and plotted in the table below:
 
-![Bar Plot of the Most Voted Over Genres on iMBD](https://github.com/JCherryA050/phase_1_project/blob/main/images/number_of_genres_DARK.png)
+![Bar Plot of the Most Voted Over Genres on iMBD](https://github.com/JCherryA050/phase_1_project/blob/main/images/number_of_genres.png)
 
 These plots show the most made and most voted movies released after the year 1960. From these figures it can be concluded that the popular genres (Adventure, Sci-Fi, Action, Fantasy) and most made genres (Comedy, Drama) do not necessarily align. There could be a saturation in the most made movies that gives way to not one movie being singled out. It is recommended however to focus mostly on the most voted over genres as they will be in the public eye.
 
