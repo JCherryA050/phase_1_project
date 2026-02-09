@@ -64,7 +64,7 @@ Using the data from iMDB, we averaged the movie ratings for each actor/actress a
 
 ![Actress Recommendation](https://github.com/JCherryA050/phase_1_project/blob/main/images/Jennifer_garner_ratings_over_years.png)
 
-## 5) Regaurding Release Dates
+## 5) Regarding Release Dates
 
 - Define the best timeline to roll out original content
   - Look at gross profit per movie by month
